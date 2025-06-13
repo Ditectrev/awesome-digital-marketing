@@ -22,13 +22,13 @@
 
 #### The Digital Marketing Ecosystem
 
-##### Search Engine Marketing (SEM)
+##### Search Marketing
 
-##### Social Media Marketing
+##### Social Media Strategy
 
-##### Content Marketing
+##### Content Strategy
 
-##### Email Marketing
+##### Email Communications
 
 ##### Affiliate Marketing
 
@@ -172,11 +172,11 @@
 
 ##### Search Engine Optimization (SEO)
 
-##### Content Marketing
+##### Content Distribution
 
-##### Social Media Marketing
+##### Social Media Management
 
-##### Email Marketing
+##### Email List Building
 
 ##### Influencer Marketing
 
@@ -184,7 +184,7 @@
 
 #### Paid Marketing Channels
 
-##### Search Engine Marketing (SEM)
+##### Search Advertising
 
 ##### Social Media Advertising
 
@@ -430,7 +430,7 @@
 
 ### Tools and Resources
 
-#### Marketing Tools
+#### Analytics and Measurement Tools
 
 ##### Analytics Tools
 
@@ -1663,3 +1663,57 @@
 ###### Risk
 
 ###### Documentation
+
+## Tools and Resources
+
+### Analytics and Measurement Tools
+
+#### Web Analytics
+
+#### Social Media Analytics
+
+#### SEO Tools
+
+#### Email Marketing Analytics
+
+#### Content Analytics
+
+#### Marketing Automation Analytics
+
+### Third-Party Tools and Integrations
+
+#### Marketing Platforms
+
+#### Social Media Management
+
+#### Content Management
+
+#### Email Marketing
+
+#### Analytics and Reporting
+
+## Social Media Marketing
+
+### Platform-Specific Strategies
+
+#### Facebook Marketing
+
+#### Instagram Marketing
+
+#### LinkedIn Marketing
+
+#### Twitter Marketing
+
+#### TikTok Marketing
+
+#### YouTube Marketing
+
+### Social Media Management
+
+#### Content Strategy
+
+#### Community Management
+
+#### Paid Social Advertising
+
+#### Analytics and Reporting
