@@ -22,7 +22,7 @@
 
 #### The Digital Marketing Ecosystem
 
-##### Search Marketing
+##### Search Engine Marketing (SEM)
 
 ##### Social Media Strategy
 
@@ -430,7 +430,7 @@
 
 ### Tools and Resources
 
-#### Analytics and Measurement Tools
+#### Marketing Tools
 
 ##### Analytics Tools
 
