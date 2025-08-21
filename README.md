@@ -2253,6 +2253,111 @@ Email communications are one of the highest-ROI channels in digital marketing, p
 
 ##### Affiliate Marketing
 
+Affiliate marketing is a performance-based partnership model where third-party partners (affiliates/publishers/creators) promote a brand’s products or services and earn commissions for measurable outcomes (sales, leads, installs). Well-run programs extend reach efficiently, align payouts with value, and scale through diversified partner portfolios while maintaining brand safety and compliance.
+
+### Key Actors and Ecosystem
+- **Advertiser/Merchant:** The brand offering products/services and funding commissions
+- **Affiliate/Publisher/Creator:** Partner promoting the brand via content, search, social, email, tools
+- **Network/Platform:** Technology layer for tracking, contracts, payouts (e.g., CJ, Awin, Impact)
+- **Agency/OPM:** Outsourced program management, recruitment, optimization
+- **Tracking/Attribution:** Cookies, S2S postbacks, device IDs, fingerprinting (where compliant)
+
+### Commission and Commercial Models
+- **CPA/RevShare:** Percentage of sale (e.g., 5–20% retail; tiered by margin/SKU/category)
+- **CPL/CPI:** Fixed fee per qualified lead/install with quality criteria
+- **Flat Fees/Hybrid:** Upfront placement fees + performance bonus
+- **Dynamic Commissioning:** Rates by SKU margin, new vs returning customers, coupon usage, device, geo, cohort
+- **Bounties/Bonuses:** Activation, stretch goals, exclusive content placements
+
+### Tracking Foundations and Reliability
+- **Attribution Window:** Cookie/lookback duration (e.g., 30 days click, 1 day view if allowed)
+- **Deduplication:** Rules across channels (paid search, email, social) to avoid double paying
+- **S2S Postbacks:** Server-to-server tracking for accuracy and app measurement
+- **Cross-Device:** Deterministic/Probabilistic (respecting privacy laws); encourage authenticated journeys
+- **UTM and SubIDs:** Pass affiliate IDs, creative, placement for granular reporting
+
+### Affiliate Types and Tactics
+- **Content/Editorial:** Reviews, comparisons, how-tos; high incrementality, longer consideration
+- **Coupon/Deal:** High volume, lower incrementality; control code leakage; last-click risks
+- **Cashback/Loyalty:** Drives price-sensitive segments; negotiate lower base rates with bonus tiers
+- **Influencers/Creators:** Trackable links + codes; blended comp (flat+CPA); brand safety checks
+- **Search Partners:** Non-brand vs brand bidding rules; whitelist keywords; negative lists
+- **Tool/Utility:** Extensions, price trackers; ensure UX quality and compliance
+- **Email Publishers:** Require opt-in proof, suppression lists, and compliance review
+- **B2B/SaaS Specialists:** Niche sites, communities, analysts; longer cookie windows and tiers
+
+### Program Setup (90-Day Launch Plan)
+1. **Strategy & Economics:** Goals, target CAC/LTV, margin guardrails, allowable commission ranges
+2. **Platform Selection:** Impact, Partnerize, CJ, Rakuten, Awin, ShareASale, Everflow, TUNE, Affise
+3. **Tracking & Policies:** Terms, PPC policy, disclosure rules, geography, cookie windows, dedupe logic
+4. **Assets:** Product feed, deep links, creatives (banners, text links), brand guide, content briefs
+5. **Recruitment:** Prospect list (content-first), outreach templates, CRM tracking, activation bonus
+6. **Activation:** Welcome kit, how-to docs, sample content angles, exclusive codes, co-marketing calendar
+7. **QA & Go-Live:** Test links, pixel/postback, mobile/app flows, sandbox orders, fraud checks, finance payout setup
+
+### Optimization Playbook
+- **Portfolio Mix:** 40–60% content, 10–20% influencers, 10–20% loyalty/cashback, 10–20% deals/tools (adapt by vertical)
+- **Tiered Commissioning:** New customers +X%, high-margin SKUs +Y%, returning −Z%
+- **Placement Negotiations:** Tenancies on peak weeks; measure incrementality via holdouts/lift tests
+- **Content Enablement:** Briefs, samples, early embargo info, exclusive angles; update feeds and USPs quarterly
+- **Creative Testing:** Headlines, hero images, value props, seasonal hooks; share performing variants
+- **Geo & Device:** Localize currency, shipping, compliance; ensure app deep-linking
+
+### Fraud Prevention and Brand Safety
+- Enforce FTC/ASA disclosure (#ad); monitor content for claims/brand guidelines
+- Anti-spam and email compliance checks; maintain suppression lists
+- Block adware, forced clicks, cookie stuffing, toolbar injection; audit logs and anomaly alerts
+- PPC compliance: No brand + TM+ bidding unless explicitly allowed; enforce negative keywords
+- Use third-party monitoring and network tools; periodic manual reviews
+
+### Measurement, KPIs, and Incrementality
+- **Core KPIs:** Revenue, orders/leads, AOV, EPC, CR, new-customer rate, ROI/ROAS, active affiliates
+- **Quality Signals:** Refund/chargeback rate, LTV, cohort retention, policy violations
+- **Incrementality:** Holdouts, geo splits, time-based tests; MTA rules for dedupe vs other channels
+- **Payout Efficiency:** Commission as % of revenue by partner type and by margin tier
+- **Program Health:** Activation rate (invited→active), top partner concentration, long tail contribution
+
+### B2C vs B2B Considerations
+- **B2C:** Shorter windows, higher volume, broader partner mix, coupon control
+- **B2B/SaaS:** Longer cycles, demo/SQL goals, content/analyst partners, higher CPL tiers, proof requirements
+
+### Compliance and Legal
+- Clear program terms; prohibited tactics; data handling; creative usage rights
+- Regional rules (GDPR, ePrivacy, CCPA/CPRA); consent for tracking; cookie banner alignment
+- Tax forms and invoicing; cross-border payouts; sanctions and KYC checks
+
+### Case Studies
+- **E-commerce (Apparel):** Shifted mix to content/influencer; dynamic rates by margin → +45% revenue, −18% blended CAC
+- **SaaS (SMB):** Introduced CPL for MQL + CPA for closed-won; added S2S postbacks → +62% qualified pipeline, +28% opp-to-close
+- **Travel:** Negotiated tenancy with top review sites for peak season; holdout-tested → +31% incremental bookings
+
+### Advanced Techniques
+- Dynamic commissioning by SKU margin and inventory status
+- Creator bundles: flat fee + CPA + performance bonus ladders
+- Partner LTV models for top-tier rate justification
+- Server-side event forwarding, redundant postbacks, and privacy-first tracking
+- Dedup logic with paid search/social; priority to prospecting content partners
+
+### Tools and Integrations
+- **Networks/Platforms:** Impact, Partnerize, CJ, Rakuten, Awin, ShareASale, Webgains, Pepperjam
+- **SaaS/Tracking:** Everflow, TUNE, Affise, Cake, PartnerStack (B2B/SaaS)
+- **Feeds/Deep Links:** Google Merchant Center, DataFeedWatch, Branch/AppsFlyer/Adjust for app deep links
+- **Analytics:** Looker/Tableau, GA4, Mixpanel; incrementality platforms; fraud monitoring tools
+
+### Operational Checklists
+- Weekly: recruit 25–50 prospects, activate 5–10, review top-20 partners, QA tracking
+- Monthly: rate review by margin/new-customer mix, refresh creative, content calendar, compliance sweep
+- Quarterly: category/SKU profitability audit, partner portfolio rebalancing, peak season plan
+
+### Future Trends
+- Creator economy maturation; performance-first influencer deals
+- Card-linked offers, bank rewards, and closed-loop loyalty networks
+- Privacy-first tracking (S2S, first-party cookies), ATT and SKAN constraints for apps
+- Retail media and affiliate convergence; pay-for-performance content syndication
+- AI-powered partner discovery, forecasting, and commission optimization
+
+> Principle: Build a diversified, compliant partner portfolio. Pay for real value, prove incrementality, and protect the brand.
+
 ##### Mobile Marketing
 
 ##### Video Marketing
