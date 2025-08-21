@@ -926,6 +926,40 @@ Emerging technologies create new opportunities:
 - Token economics
 - Future implications
 
+**Overview and relevance:**
+- Web3 introduces decentralized ownership and verifiable digital scarcity, enabling new value exchanges between brands and communities.
+- Blockchain provides transparent ledgers for loyalty, affiliate payouts, and supply-chain provenance, improving trust and traceability.
+
+**Marketing applications:**
+- Token‑gated experiences: Exclusive access to content, drops, or events for wallet holders.
+- Loyalty as assets: Points as tokens with portability and secondary‑market value (where compliant).
+- Verifiable ownership: Certificates of authenticity for digital and physical goods (phygital experiences).
+- Decentralized identity (DID): Privacy‑preserving personalization with user‑controlled data permissions.
+- Smart contracts: Automated royalties, commissions, and milestone‑based partner payouts.
+- Community co‑creation: DAO‑style feedback loops, governance voting for feature roadmaps.
+
+**Measurement and data:**
+- On‑chain analytics: Track wallet cohorts, holder retention, token transfers, marketplace activity.
+- Off‑chain integration: Connect wallet events to CRM/CDP via secure bridges and consented data.
+
+**Risks and compliance:**
+- Regulatory uncertainty by region; avoid financial claims; provide clear disclosures.
+- Security: Smart‑contract audits, multisig controls, cold storage for treasury; phishing education.
+- Sustainability: Prefer energy‑efficient chains (PoS) and disclose environmental practices.
+
+**Example use cases:**
+- Token‑gated commerce for VIP drops; membership tiers with evolving utility.
+- Affiliate/partner royalties via smart contracts with transparent rules.
+- Provenance for luxury goods and collectibles with scannable NFC chips.
+
+**Tools and platforms:**
+- Chains: Ethereum, Polygon, Solana; L2s for lower fees.
+- Wallets: MetaMask, Coinbase Wallet; custodial options for mainstream users.
+- Infra/Analytics: Alchemy, Infura, QuickNode; Dune, Nansen; Wallet‑centric CDPs.
+
+**KPIs:**
+- Wallet acquisition and verification rates; token holder retention; redemption/utility usage; secondary‑market volume and royalties; community participation rates.
+
 ##### Metaverse Marketing
 
 The metaverse presents new marketing possibilities:
