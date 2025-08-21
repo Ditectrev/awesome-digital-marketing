@@ -2360,6 +2360,107 @@ Affiliate marketing is a performance-based partnership model where third-party p
 
 ##### Mobile Marketing
 
+Mobile marketing focuses on reaching users on smartphones and tablets through mobile web and apps, leveraging location, context, and device capabilities to drive acquisition, engagement, and revenue. It spans mobile SEO, app growth, push/SMS, in-app messaging, wallets, and in‑app advertising—with privacy, performance, and UX at the core.
+
+### Core Channels and Tactics
+- **Mobile Web (mWeb):** Responsive sites, Core Web Vitals, fast checkout, one-tap payments
+- **Apps:** Native/hybrid/PWA; app onboarding, feature discovery, contextual nudges
+- **Push Notifications:** Transactional vs promotional; behavior and lifecycle triggers; quiet hours
+- **In-App Messaging:** Contextual tips, announcements, paywall education, upsell prompts
+- **SMS/MMS/RCS:** Consent-first messaging for alerts, offers, and two-way service
+- **Mobile Email:** Mobile-first templates, dark mode, simplified CTAs, deep links
+- **Location-Based Marketing:** Geofencing, beacons, place-based audiences (privacy-safe)
+- **App Store Optimization (ASO):** Keywords, screenshots, videos, reviews, A/B testing
+- **Mobile Ads:** Apple Search Ads, Google App Campaigns (UAC), Meta/TikTok app ads, programmatic in-app (rewarded, interstitial, native)
+- **Wallet & Passes:** Apple Wallet/Google Wallet passes for offers, loyalty, and reminders
+- **QR Codes & Short Links:** Offline-to-online activation, UTM/SubID tracking
+
+### Technical Foundations
+- **Deep Linking:** Universal Links (iOS), App Links (Android); deferred deep linking for new installs
+- **Attribution & MMPs:** AppsFlyer, Adjust, Branch, Singular; S2S postbacks; SKAdNetwork modeling
+- **Privacy & Consent:** ATT prompts (iOS), Android Privacy Sandbox (SDK Runtime, Topics), GDPR/CCPA/ePrivacy, TCPA for SMS
+- **Analytics Stack:** GA4/Firebase, Amplitude, Mixpanel; session, cohort, funnel analytics; remote config/feature flags
+- **Performance:** Lightweight bundles, lazy loading, image optimization, CDN, caching, offline strategies (PWA)
+- **Security:** SSL pinning, jailbreak/root detection, secure storage (Keychain/Keystore), certificate rotation
+
+### Lifecycle Programs (Examples)
+- **Onboarding:** 3–5 steps to first value; progressive permissioning; welcome push (optional)
+- **Activation:** Tooltips and checklists; personalized nudges to reach Aha moment
+- **Conversion:** Price drops, back‑in‑stock, cart recovery, trial‑to‑paid flows
+- **Retention:** Habit loops, streaks, content recommendations, replenishment prompts
+- **Reactivation:** Win‑back sequences via push/SMS/email; incentives with guardrails
+- **Advocacy:** Reviews/ratings prompts (timing-sensitive), referrals, loyalty tiers
+
+### Segmentation and Targeting
+- **Lifecycle Stages:** New, activated, engaged, at‑risk, lapsed
+- **Behavioral:** Session depth, features used, last purchase, categories viewed
+- **Value-Based:** RFM segments, ARPU/ARPPU, predicted CLV/churn
+- **Contextual:** Device, OS, locale, time of day, location cohorts
+- **Consent State:** ATT status, push/SMS opt‑in, tracking preferences
+
+### Measurement and KPIs
+- Acquisition: Installs, CPI/CPE, store conversion rate, ASA/UAC performance
+- Engagement: DAU/MAU, stickiness (DAU/MAU), sessions/user, screen depth, push opt‑in rate
+- Retention: D1/D7/D30 retention, churn, uninstall rate
+- Monetization: ARPU/ARPPU, conversion to purchase/subscription, LTV, ROAS (D0/D7/D30)
+- Experience: Core Web Vitals, TTI, crash rate, ANR (Android), app size
+- Communications: Push delivery/open/CTR, SMS delivery/CTR/reply rate
+
+### Compliance and Governance
+- **Consent:** Explicit opt‑in for push and SMS; easy opt‑out; regional footers and quiet hours
+- **TCPA & Carrier Rules:** Proof of consent, message rate caps, HELP/STOP keywords, sender registration (10DLC)
+- **App Store Policies:** Content, data usage, sign‑in options; review guideline compliance
+- **Data Minimization:** Least privilege SDKs; periodic SDK audits; privacy manifests
+
+### Mobile Advertising Deep Dive
+- **ASA (Apple Search Ads):** Exact/match types, custom product pages, CPP testing
+- **Google UAC:** Creative asset groups, event optimization (in‑app actions), Firebase integration
+- **Meta/TikTok App Ads:** Value optimization, SKAN schemas, creative diversity (short video, UGC)
+- **Programmatic In‑App:** Rewarded video, interstitial, native; brand safety, viewability, IVT controls
+- **Creative Strategy:** Thumb‑stop hooks in 2s, captions, device-native UI, iterative testing
+
+### ASO Playbook
+- Keyword research by locale; title/subtitle optimization; first 3 screenshots convey core value
+- Localized creatives and descriptions; seasonal variants; reply to reviews
+- Test icons/screens/videos via native store experiments; measure install and retention impact
+
+### Testing and Experimentation
+- **A/B & Feature Flags:** Remote config; rollouts by cohort/locale/device
+- **Holdouts & Incrementality:** Measure true lift of push/SMS/ads; geo/time splits
+- **Journey Tests:** Onboarding variants, paywall copy/price tests, friction removal
+
+### B2C vs B2B Nuances
+- **B2C:** Higher cadence tolerance, promo calendars, rich media ads, loyalty mechanics
+- **B2B:** Longer cycles, in‑app lead capture, meeting/opp KPIs, weekday dayparts
+
+### Case Studies
+- **Retail App:** Introduced deep-linked cart recovery and replenishment push → +22% D30 revenue/user, −15% churn
+- **QSR:** Geofenced offers and Wallet passes → +31% coupon redemption, +18% visits among opted‑in cohort
+- **Fintech:** ATT‑compliant onboarding and SKAN optimization → −28% CPI, +40% install‑to‑KYC rate
+
+### Tools and Platforms
+- **MMPs:** AppsFlyer, Adjust, Branch, Singular
+- **Push/In‑App:** Braze, Airship, OneSignal, Leanplum
+- **Analytics:** GA4/Firebase, Amplitude, Mixpanel
+- **CDP:** Segment, mParticle, Tealium; reverse ETL (Hightouch, Census)
+- **ASO:** AppTweak, AppFollow, Sensor Tower, data.ai
+- **Perf/Quality:** Crashlytics, Sentry, BrowserStack/Appium, Lighthouse, SpeedCurve
+
+### Operational Checklists
+- Pre‑launch: SDK map, consent flows, deep links, event taxonomy, QA matrix
+- Weekly: Cohort retention review (D1/D7/D30), crash/ANR triage, creative refresh
+- Monthly: ASO experiments, SKAN schema review, lifecycle program audit
+- Quarterly: SDK/privacy audit, performance budgets, geo expansion plan
+
+### Future Trends
+- 5G‑enabled rich experiences, streaming, and AR try‑ons
+- Android Privacy Sandbox and improved SKAN models
+- RCS growth and richer business messaging; Wallet’s rise for loyalty
+- Super‑apps, mini‑programs, and conversational UI
+- Wearables and ambient computing as supporting channels
+
+> Principle: Win on mobile by respecting consent, delivering speed and clarity, and orchestrating timely, contextual moments that create daily value.
+
 ##### Video Marketing
 
 ##### Influencer Marketing
