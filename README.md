@@ -598,26 +598,26 @@ The main components of digital marketing include:
    - Content strategy
    - Technical optimization
 
-1. **Content Marketing**
+2. **Content Marketing**
    - Blog posts
    - Videos
    - Infographics
    - Podcasts
    - Social media content
 
-1. **Social Media Marketing**
+3. **Social Media Marketing**
    - Platform-specific strategies
    - Community management
    - Paid social advertising
    - Influencer partnerships
 
-1. **Email Marketing**
+4. **Email Marketing**
    - Newsletter campaigns
    - Automated sequences
    - Lead nurturing
    - Transactional emails
 
-1. **Pay-Per-Click (PPC) Advertising**
+5. **Pay-Per-Click (PPC) Advertising**
    - Search engine advertising
    - Display advertising
    - Social media ads
@@ -632,17 +632,17 @@ The digital marketing funnel represents the customer journey from awareness to c
    - Content consumption
    - Social media engagement
 
-1. **Consideration**
+2. **Consideration**
    - Research and comparison
    - Content evaluation
    - Social proof review
 
-1. **Decision**
+3. **Decision**
    - Purchase intent
    - Conversion optimization
    - Call-to-action engagement
 
-1. **Retention**
+4. **Retention**
    - Customer loyalty
    - Repeat purchases
    - Brand advocacy
