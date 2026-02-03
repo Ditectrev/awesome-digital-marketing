@@ -52,7 +52,7 @@
       - [Web3 and Blockchain](#web3-and-blockchain)
       - [Metaverse Marketing](#metaverse-marketing)
       - [NFT Marketing](#nft-marketing)
-  - [Search Engine Marketing (SEM): Deep Dive & Advanced Playbook](#search-engine-marketing-sem-deep-dive-advanced-playbook)
+- [Search Engine Marketing (SEM): Deep Dive & Advanced Playbook](#search-engine-marketing-sem-deep-dive-advanced-playbook)
     - [1. SEM Fundamentals and Modern Best Practices](#1-sem-fundamentals-and-modern-best-practices)
     - [2. Advanced SEM Frameworks](#2-advanced-sem-frameworks)
     - [A. The SEM Optimization Loop](#a-the-sem-optimization-loop)
@@ -178,6 +178,7 @@
     - [Cookie consent management represents a critical intersection of privacy compliance, user experience, and marketing effectiveness. By implementing comprehensive consent strategies that prioritize transparency, user control, and regulatory compliance, organizations can build trust with customers while maintaining marketing capabilities. The key is to view consent management not as a compliance burden, but as an opportunity to demonstrate respect for user privacy and build stronger customer relationships](#cookie-consent-management-represents-a-critical-intersection-of-privacy-compliance-user-experience-and-marketing-effectiveness-by-implementing-comprehensive-consent-strategies-that-prioritize-transparency-user-control-and-regulatory-compliance-organizations-can-build-trust-with-customers-while-maintaining-marketing-capabilities-the-key-is-to-view-consent-management-not-as-a-compliance-burden-but-as-an-opportunity-to-demonstrate-respect-for-user-privacy-and-build-stronger-customer-relationships)
     - [Industry Statistics and Trends (2)](#industry-statistics-and-trends-2)
       - [Market Size and Growth (2)](#market-size-and-growth-2)
+- [Industry Statistics and Trends](#industry-statistics-and-trends-1)
   - [Scope and Definitions](#scope-and-definitions)
   - [Global Size and Momentum (directional)](#global-size-and-momentum-directional)
   - [Regional Outlook](#regional-outlook)
@@ -260,6 +261,7 @@
     - [Technology Assessment Tools](#technology-assessment-tools)
     - [Vendor Selection Resources](#vendor-selection-resources)
       - [Web3 and Blockchain (2)](#web3-and-blockchain-2)
+- [Web3 and Blockchain](#web3-and-blockchain-1)
   - [Understanding Web3 and Blockchain](#understanding-web3-and-blockchain)
     - [Core Concepts and Definitions](#core-concepts-and-definitions)
     - [Key Technologies and Protocols](#key-technologies-and-protocols)
@@ -296,6 +298,7 @@
     - [Strategic Implementation](#strategic-implementation)
     - [Risk Management](#risk-management)
       - [Metaverse Marketing (2)](#metaverse-marketing-2)
+- [Metaverse Marketing](#metaverse-marketing-1)
   - [Understanding the Metaverse](#understanding-the-metaverse)
     - [Definition and Scope](#definition-and-scope)
     - [Key Metaverse Platforms](#key-metaverse-platforms)
@@ -335,6 +338,7 @@
     - [Content Creation](#content-creation)
     - [Community Engagement](#community-engagement)
       - [NFT Marketing (2)](#nft-marketing-2)
+- [NFT Marketing](#nft-marketing-1)
   - [Understanding NFTs in Marketing](#understanding-nfts-in-marketing)
     - [What Are NFTs](#what-are-nfts)
     - [Key Characteristics](#key-characteristics)
@@ -375,7 +379,7 @@
     - [Strategic Planning (2)](#strategic-planning-2)
     - [Technical Implementation (2)](#technical-implementation-2)
     - [Community Building](#community-building)
-  - [History and Evolution of Digital Marketing](#history-and-evolution-of-digital-marketing)
+- [History and Evolution of Digital Marketing](#history-and-evolution-of-digital-marketing)
     - [Early Digital Marketing](#early-digital-marketing)
   - [The Foundation Years (1990-1995)](#the-foundation-years-1990-1995)
     - [Web Development and Design](#web-development-and-design)
@@ -1600,7 +1604,7 @@ NFTs offer unique marketing opportunities:
 
 - Holder growth, utility usage, secondary‑market health, community MAU, brand lift among holders.
 
-### Search Engine Marketing (SEM): Deep Dive & Advanced Playbook
+## Search Engine Marketing (SEM): Deep Dive & Advanced Playbook
 
 #### 1. SEM Fundamentals and Modern Best Practices
 
@@ -2617,6 +2621,8 @@ Cookie consent management represents a critical component of modern digital mark
 
 Digital marketing continues its multi-year expansion, propelled by mobile usage, commerce digitization, short‑form video, connected TV (CTV), and retail media networks. While growth varies by region and vertical, budgets are structurally shifting from traditional media toward measurable, privacy‑resilient channels.
 
+## Industry Statistics and Trends
+
 ### Scope and Definitions
 
 - Includes digital advertising (search, social, display/programmatic, video/CTV, retail media), owned/earned channels (SEO, email), and enablement spend (MarTech, data/analytics)
@@ -3074,6 +3080,8 @@ Technology adoption in digital marketing follows predictable patterns, from earl
 
 Web3 and blockchain technologies are revolutionizing digital marketing by enabling decentralized, transparent, and user-centric experiences. These technologies create new opportunities for customer engagement, loyalty programs, and data ownership while addressing privacy concerns.
 
+## Web3 and Blockchain
+
 ### Understanding Web3 and Blockchain
 
 #### Core Concepts and Definitions
@@ -3268,6 +3276,8 @@ Web3 and blockchain technologies are revolutionizing digital marketing by enabli
 ##### Metaverse Marketing (2)
 
 Metaverse marketing represents the next frontier of digital engagement, where brands create immersive, interactive experiences in virtual worlds. This emerging channel combines virtual reality (VR), augmented reality (AR), and social interaction to build deeper customer relationships and drive engagement.
+
+## Metaverse Marketing
 
 ### Understanding the Metaverse
 
@@ -3488,6 +3498,8 @@ Metaverse marketing represents the next frontier of digital engagement, where br
 ##### NFT Marketing (2)
 
 NFT (Non-Fungible Token) marketing represents a revolutionary approach to digital asset ownership, community building, and brand engagement. By leveraging blockchain technology, brands can create unique, verifiable digital assets that drive customer loyalty, generate new revenue streams, and build engaged communities.
+
+## NFT Marketing
 
 ### Understanding NFTs in Marketing
 
@@ -3714,7 +3726,7 @@ NFT (Non-Fungible Token) marketing represents a revolutionary approach to digita
 
 > **Key Takeaway:** NFT marketing represents a paradigm shift in digital asset ownership and community building, offering unprecedented opportunities for brand engagement and revenue generation. Success requires understanding the technology, creating genuine value, and building engaged communities. Early adopters will gain competitive advantages while developing future-ready marketing capabilities in this rapidly evolving space.
 
-### History and Evolution of Digital Marketing
+## History and Evolution of Digital Marketing
 
 #### Early Digital Marketing
 
