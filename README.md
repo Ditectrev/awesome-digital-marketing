@@ -248,7 +248,7 @@
     - [Social Media Management](#social-media-management)
     - [Email List Building](#email-list-building)
     - [Influencer Marketing (Organic)](#influencer-marketing-organic)
-    - [Community Building (2)](#community-building-2)
+    - [Community Building](#community-building)
   - [Paid Marketing Channels](#paid-marketing-channels)
     - [Search Advertising](#search-advertising)
     - [Social Media Advertising](#social-media-advertising)
@@ -2528,7 +2528,7 @@ Building authentic relationships with industry influencers and thought leaders f
 
 - **Partnership Opportunities**: Finding mutually beneficial collaborations
 
-#### Community Building (2)
+#### Community Building
 
 Creating and nurturing engaged communities around your brand, industry, or shared interests.
 
