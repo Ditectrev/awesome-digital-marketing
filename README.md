@@ -1,4 +1,59 @@
-# 📚 Awesome Digital Marketing Book & Course
+# 📚 Awesome Digital Marketing Study Guide Book & Course
+
+![Promotional image](images/promotional.png)
+
+## ❣️ Support
+
+There are many ways to support us; in exchange, you'll get this material in a proper format:
+
+- ❤️ [shop.ditectrev.com, in EPUB or PDF formats](https://shop.ditectrev.com),
+- ▶️ [Udemy, in an interactive video course format](https://www.udemy.com/user/social-ditectrev/),
+- 🆓 [Shorter, but free, part of our Udemy course is available on YouTube](https://www.youtube.com/@Ditectrev),
+- 📚 [Google Play Books, in PDF format](https://play.google.com/store/books/collection/cluster?gsr=SheCARQKEAoMd0toX0VRQUFRQkFKEAkQBA%3D%3D:S:ANO1ljJ_0cQ),
+- 🛍️ [Etsy, in PDF format](https://ditectrev.etsy.com),
+- 🛒 [eBay, in PDF format](https://www.ebay.com/usr/ditectrev),
+- 🔄 [Patreon subscription allows you to get access to all of the materials in EPUB and PDF formats. You can also buy separate items on Patreon, but the subscription technically allows us to include all updates for EPUB and PDF formats. Hence, you get EPUB and PDF updates when you subscribe to Patreon](https://patreon.com/Ditectrev?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
+
+💰 If you work for a company, you could probably easily claim this expense while learning this topic. For us, it's about being in the game or not.
+
+⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item.
+
+## ✨ This book & course is unlike any Digital Marketing Study Guide Book & Course you will find online
+
+✋ Join a live online community and a Study Guide Book & Course taught by industry experts and learn about Digital Marketing. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+
+[![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
+
+## ⌛️ Short and to the point; why should you take the book & course:
+
+1. Always happy to answer your questions 😊
+2. Unhappy? Please raise a refund; we'll always accept it 💸
+3. Learn about topics, such as 😱
+   - ...
+   - **Much More!**
+4. Real Life examples ✅
+5. The Study Guide Book & Course explains the topic fully in-depth 🔬
+
+## ☝️ Book & Course Updates
+
+**[v1.0.0](../../releases/tag/v1.0.0): February X, 2026.**
+
+- Launch of the book.
+
+## 🙋‍♀️ & 🙋‍♂️ Contribution
+
+We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
+
+## Who this book & course is for:
+
+- 👨‍🎓 Enthusiasts of practical education;
+- 👨‍🎓 ...;
+
+## Requirements
+
+- 🤩 Excitement to learn!
+- 0️⃣ Prior knowledge is required;
+- ✅ You can learn Digital Marketing solely based on our Study Guide Book & Course.
 
 ## Table of Contents
 
