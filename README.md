@@ -18,25 +18,34 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 
 ⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item.
 
-## ✨ This book & course is unlike any Digital Marketing Study Guide Book & Course you will find online
+## ✨ This Study Guide Book & Course is unlike any Digital Marketing Study Guide Book & Course you will find online
 
 ✋ Join a live online community and a Study Guide Book & Course taught by industry experts and learn about Digital Marketing. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
 
 [![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
 
-## ⌛️ Short and to the point; why should you take the book & course:
+## ⌛️ Short and to the point; why should you take the Study Guide Book & Course:
 
 1. Always happy to answer your questions 😊
 2. Unhappy? Please raise a refund; we'll always accept it 💸
 3. Learn about topics, such as 😱
-   - ...
+   - Introduction to Digital Marketing;
+   - History and Evolution of Digital Marketing;
+   - Industry Statistics and Trends;
+   - Search Engine Marketing (SEM);
+   - Social Media Strategy;
+   - Organic vs. Paid Digital Marketing;
+   - Web3 and Blockchain Marketing;
+   - Metaverse Marketing;
+   - Digital Marketing Psychology;
+   - Conversion Rate Optimization (CRO);
    - **Much More!**
 4. Real Life examples ✅
 5. The Study Guide Book & Course explains the topic fully in-depth 🔬
 
-## ☝️ Book & Course Updates
+## ☝️ Study Guide Book & Course Updates
 
-**[v1.0.0](../../releases/tag/v1.0.0): February X, 2026.**
+**[v1.0.0](../../releases/tag/v1.0.0): February 9, 2026.**
 
 - Launch of the book.
 
@@ -44,10 +53,16 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
 
-## Who this book & course is for:
+## Who this Study Guide Book & Course is for:
 
 - 👨‍🎓 Enthusiasts of practical education;
-- 👨‍🎓 ...;
+- 👨‍🎓 Everyone who has heard about Digital Marketing and would like to know more;
+- 👨‍🎓 Marketers willing to know A to Z about Digital Marketing;
+- 👨‍🎓 Professionalists daily working with the internet who want to have a basic grasp of what Digital Marketing is without burnout;
+- 👨‍🎓 Sceptical Marketers about Study Guide Book & Course solely focused on Digital Marketing;
+- 👨‍🎓 Self-paced Learners for whom expensive Bootcamps are unaffordable;
+- 👨‍🎓 Students interested in Digital Marketing;
+- 👨‍🎓 Students willing to start a career in Digital Marketing;
 
 ## Requirements
 
@@ -181,7 +196,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
     - [Performance Measurement](#performance-measurement)
     - [ROI Analysis](#roi-analysis)
     - [Strategy Optimization](#strategy-optimization)
-- [Web3 and Blockchain](#web3-and-blockchain)
+- [Web3 and Blockchain Marketing](#web3-and-blockchain-marketing)
   - [Understanding Web3 and Blockchain](#understanding-web3-and-blockchain)
     - [Core Concepts and Definitions](#core-concepts-and-definitions)
     - [Key Technologies and Protocols](#key-technologies-and-protocols)
@@ -1743,7 +1758,7 @@ Continuous improvement of integrated marketing strategy based on performance dat
 
 - **Timing and Frequency**: Optimizing when and how often to communicate
 
-## Web3 and Blockchain
+## Web3 and Blockchain Marketing
 
 ### Understanding Web3 and Blockchain
 
